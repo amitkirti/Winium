@@ -1,5 +1,5 @@
 # Winium
-package vidtext_test;
+package text_test;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
