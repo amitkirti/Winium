@@ -37,7 +37,7 @@ static String password="123";
 	
 		DesktopOptions options = new DesktopOptions();
 		 
-		options.setApplicationPath("C:\\Program Files\\vidtext\\xxxx.exe");
+		options.setApplicationPath("C:\\Program Files\\myapp\\xxxx.exe");
 		
 		WiniumDriver driver = new WiniumDriver(new URL("http://localhost:9999"), options);
 		
